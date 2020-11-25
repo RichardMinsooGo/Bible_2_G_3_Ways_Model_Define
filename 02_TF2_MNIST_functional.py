@@ -60,7 +60,7 @@ def create_model():
     drop4 = Dropout(rate=0.4)(dense4)
     logits = Dense(10, activation='softmax')(drop4)
     
-    model = keras.Model(inputs=inputs, outputs=logits)
+    model = Model(inputs=inputs, outputs=logits)
 
     return model
 
