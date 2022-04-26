@@ -4,7 +4,7 @@ This repository is for "3 ways to create a Keras model with TensorFlow 2.0" and 
 
 Korean explanation  : https://wikidocs.net/164735
 
-English explanation : https://wikidocs.net/164740
+English explanation : https://wikidocs.net/165440
 
 ## Ensemble
 Ensemble codes are moved to : 
