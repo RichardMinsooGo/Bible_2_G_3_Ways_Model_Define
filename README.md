@@ -7,19 +7,6 @@ Korean explanation  : https://wikidocs.net/164735
 English explanation : https://wikidocs.net/164740
 
 ## Ensemble
+Ensemble codes are moved to : 
 
-https://github.com/RichardMinsooGo-ML
-: This is new repository for Machine Learning.
-
-
-https://github.com/RichardMinsooGo-RL-Gym
-: This is new repository for Reinforcement Learning based on Open-AI gym.
-
-
-https://github.com/RichardMinsooGo-RL-Single-agent  
-: This is new repository for Reinforcement Learning for Single Agent.
-
-
-https://github.com/RichardMinsooGo-RL-Multi-agent
-: This new repository is for Reinforcement Learning for Multi Agents.
-
+https://github.com/RichardMinsooGo/Bible-1_06_Ensemble
